@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App49_sum_of_the_numbers_in_a_file/1.0.0": {
+        "runtime": {
+          "App49_sum_of_the_numbers_in_a_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App49_sum_of_the_numbers_in_a_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

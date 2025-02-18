@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/bin/Debug/net9.0/App3_readLine
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/bin/Debug/net9.0/App3_readLine.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/bin/Debug/net9.0/App3_readLine.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/bin/Debug/net9.0/App3_readLine.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/bin/Debug/net9.0/App3_readLine.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/refint/App3_readLine.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/App3_readLine.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App3_readLine/obj/Debug/net9.0/ref/App3_readLine.dll

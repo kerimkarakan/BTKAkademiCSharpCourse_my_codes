@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/bin/Debug/net9.0/App4_sumOfTwoNum
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/bin/Debug/net9.0/App4_sumOfTwoNum.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/bin/Debug/net9.0/App4_sumOfTwoNum.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/bin/Debug/net9.0/App4_sumOfTwoNum.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/bin/Debug/net9.0/App4_sumOfTwoNum.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/refint/App4_sumOfTwoNum.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/App4_sumOfTwoNum.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App4_sumOfTwoNum/obj/Debug/net9.0/ref/App4_sumOfTwoNum.dll

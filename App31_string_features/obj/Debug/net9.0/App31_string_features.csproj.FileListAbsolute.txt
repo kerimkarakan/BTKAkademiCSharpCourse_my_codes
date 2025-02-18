@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/bin/Debug/net9.0/App31_string_features
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/bin/Debug/net9.0/App31_string_features.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/bin/Debug/net9.0/App31_string_features.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/bin/Debug/net9.0/App31_string_features.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/bin/Debug/net9.0/App31_string_features.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/refint/App31_string_features.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/App31_string_features.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App31_string_features/obj/Debug/net9.0/ref/App31_string_features.dll

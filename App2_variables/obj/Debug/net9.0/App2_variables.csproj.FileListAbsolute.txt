@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/bin/Debug/net9.0/App2_variables
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/bin/Debug/net9.0/App2_variables.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/bin/Debug/net9.0/App2_variables.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/bin/Debug/net9.0/App2_variables.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/bin/Debug/net9.0/App2_variables.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/refint/App2_variables.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/App2_variables.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App2_variables/obj/Debug/net9.0/ref/App2_variables.dll

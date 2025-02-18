@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/bin/Debug/net9.0/App36_print_it_backwards
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/bin/Debug/net9.0/App36_print_it_backwards.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/bin/Debug/net9.0/App36_print_it_backwards.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/bin/Debug/net9.0/App36_print_it_backwards.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/bin/Debug/net9.0/App36_print_it_backwards.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/refint/App36_print_it_backwards.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/App36_print_it_backwards.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App36_print_it_backwards/obj/Debug/net9.0/ref/App36_print_it_backwards.dll

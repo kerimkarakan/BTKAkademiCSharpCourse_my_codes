@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/bin/Debug/net9.0/App33_arraylist_and_list
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/bin/Debug/net9.0/App33_arraylist_and_list.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/bin/Debug/net9.0/App33_arraylist_and_list.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/bin/Debug/net9.0/App33_arraylist_and_list.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/bin/Debug/net9.0/App33_arraylist_and_list.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/refint/App33_arraylist_and_list.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/App33_arraylist_and_list.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App33_arraylist_and_list/obj/Debug/net9.0/ref/App33_arraylist_and_list.dll

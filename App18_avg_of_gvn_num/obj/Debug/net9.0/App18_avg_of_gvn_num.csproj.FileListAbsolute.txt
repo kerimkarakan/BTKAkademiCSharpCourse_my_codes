@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/bin/Debug/net9.0/App18_avg_of_gvn_num
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/bin/Debug/net9.0/App18_avg_of_gvn_num.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/bin/Debug/net9.0/App18_avg_of_gvn_num.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/bin/Debug/net9.0/App18_avg_of_gvn_num.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/bin/Debug/net9.0/App18_avg_of_gvn_num.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/refint/App18_avg_of_gvn_num.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/App18_avg_of_gvn_num.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App18_avg_of_gvn_num/obj/Debug/net9.0/ref/App18_avg_of_gvn_num.dll

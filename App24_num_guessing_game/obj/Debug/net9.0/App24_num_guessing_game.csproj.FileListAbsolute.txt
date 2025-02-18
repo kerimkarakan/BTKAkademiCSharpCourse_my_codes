@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/bin/Debug/net9.0/App24_num_guessing_game
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/bin/Debug/net9.0/App24_num_guessing_game.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/bin/Debug/net9.0/App24_num_guessing_game.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/bin/Debug/net9.0/App24_num_guessing_game.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/bin/Debug/net9.0/App24_num_guessing_game.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/refint/App24_num_guessing_game.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/App24_num_guessing_game.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App24_num_guessing_game/obj/Debug/net9.0/ref/App24_num_guessing_game.dll

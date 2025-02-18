@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App23_all_loops/1.0.0": {
+        "runtime": {
+          "App23_all_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App23_all_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

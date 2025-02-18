@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/bin/Debug/net9.0/App41_random_6number
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/bin/Debug/net9.0/App41_random_6number.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/bin/Debug/net9.0/App41_random_6number.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/bin/Debug/net9.0/App41_random_6number.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/bin/Debug/net9.0/App41_random_6number.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/refint/App41_random_6number.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/App41_random_6number.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App41_random_6number/obj/Debug/net9.0/ref/App41_random_6number.dll

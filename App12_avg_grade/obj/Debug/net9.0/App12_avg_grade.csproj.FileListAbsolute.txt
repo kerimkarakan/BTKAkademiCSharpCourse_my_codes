@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/bin/Debug/net9.0/App12_avg_grade
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/bin/Debug/net9.0/App12_avg_grade.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/bin/Debug/net9.0/App12_avg_grade.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/bin/Debug/net9.0/App12_avg_grade.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/bin/Debug/net9.0/App12_avg_grade.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/refint/App12_avg_grade.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/App12_avg_grade.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App12_avg_grade/obj/Debug/net9.0/ref/App12_avg_grade.dll

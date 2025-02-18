@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/bin/Debug/net9.0/App45_bank_system
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/bin/Debug/net9.0/App45_bank_system.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/bin/Debug/net9.0/App45_bank_system.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/bin/Debug/net9.0/App45_bank_system.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/bin/Debug/net9.0/App45_bank_system.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/refint/App45_bank_system.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/App45_bank_system.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App45_bank_system/obj/Debug/net9.0/ref/App45_bank_system.dll

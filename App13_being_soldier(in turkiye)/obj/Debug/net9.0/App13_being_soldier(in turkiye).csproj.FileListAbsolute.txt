@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/bin/Debug/net9.0/App13_being_soldier(in turkiye)
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/bin/Debug/net9.0/App13_being_soldier(in turkiye).deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/bin/Debug/net9.0/App13_being_soldier(in turkiye).runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/bin/Debug/net9.0/App13_being_soldier(in turkiye).dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/bin/Debug/net9.0/App13_being_soldier(in turkiye).pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/refint/App13_being_soldier(in turkiye).dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/App13_being_soldier(in turkiye).genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App13_being_soldier(in turkiye)/obj/Debug/net9.0/ref/App13_being_soldier(in turkiye).dll

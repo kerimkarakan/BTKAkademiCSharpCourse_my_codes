@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/bin/Debug/net9.0/App10_if_else
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/bin/Debug/net9.0/App10_if_else.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/bin/Debug/net9.0/App10_if_else.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/bin/Debug/net9.0/App10_if_else.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/bin/Debug/net9.0/App10_if_else.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/refint/App10_if_else.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/App10_if_else.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App10_if_else/obj/Debug/net9.0/ref/App10_if_else.dll

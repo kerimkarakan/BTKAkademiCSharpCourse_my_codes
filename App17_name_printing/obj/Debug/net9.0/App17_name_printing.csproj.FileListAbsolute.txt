@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/bin/Debug/net9.0/App17_name_printing
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/bin/Debug/net9.0/App17_name_printing.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/bin/Debug/net9.0/App17_name_printing.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/bin/Debug/net9.0/App17_name_printing.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/bin/Debug/net9.0/App17_name_printing.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/refint/App17_name_printing.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/App17_name_printing.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App17_name_printing/obj/Debug/net9.0/ref/App17_name_printing.dll

@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/bin/Debug/net9.0/App42_class_methods
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/bin/Debug/net9.0/App42_class_methods.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/bin/Debug/net9.0/App42_class_methods.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/bin/Debug/net9.0/App42_class_methods.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/bin/Debug/net9.0/App42_class_methods.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/refint/App42_class_methods.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/App42_class_methods.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App42_class_methods/obj/Debug/net9.0/ref/App42_class_methods.dll

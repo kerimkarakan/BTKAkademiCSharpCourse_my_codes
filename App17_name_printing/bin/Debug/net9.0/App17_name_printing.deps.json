@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App17_name_printing/1.0.0": {
+        "runtime": {
+          "App17_name_printing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App17_name_printing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

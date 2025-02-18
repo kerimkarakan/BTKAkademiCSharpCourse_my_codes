@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/bin/Debug/net9.0/App20_draw_triangle
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/bin/Debug/net9.0/App20_draw_triangle.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/bin/Debug/net9.0/App20_draw_triangle.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/bin/Debug/net9.0/App20_draw_triangle.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/bin/Debug/net9.0/App20_draw_triangle.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/refint/App20_draw_triangle.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/App20_draw_triangle.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App20_draw_triangle/obj/Debug/net9.0/ref/App20_draw_triangle.dll

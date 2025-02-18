@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/bin/Debug/net9.0/App34_dictionary
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/bin/Debug/net9.0/App34_dictionary.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/bin/Debug/net9.0/App34_dictionary.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/bin/Debug/net9.0/App34_dictionary.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/bin/Debug/net9.0/App34_dictionary.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/refint/App34_dictionary.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/App34_dictionary.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App34_dictionary/obj/Debug/net9.0/ref/App34_dictionary.dll

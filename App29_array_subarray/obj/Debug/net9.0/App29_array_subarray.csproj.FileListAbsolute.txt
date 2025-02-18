@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/bin/Debug/net9.0/App29_array_subarray
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/bin/Debug/net9.0/App29_array_subarray.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/bin/Debug/net9.0/App29_array_subarray.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/bin/Debug/net9.0/App29_array_subarray.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/bin/Debug/net9.0/App29_array_subarray.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/refint/App29_array_subarray.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/App29_array_subarray.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App29_array_subarray/obj/Debug/net9.0/ref/App29_array_subarray.dll

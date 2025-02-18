@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/bin/Debug/net9.0/App51_json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/bin/Debug/net9.0/App51_json.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/bin/Debug/net9.0/App51_json.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/bin/Debug/net9.0/App51_json.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/bin/Debug/net9.0/App51_json.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/refint/App51_json.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/App51_json.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App51_json/obj/Debug/net9.0/ref/App51_json.dll

@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/bin/Debug/net9.0/App6_area_and_perimeter
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/bin/Debug/net9.0/App6_area_and_perimeter.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/bin/Debug/net9.0/App6_area_and_perimeter.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/bin/Debug/net9.0/App6_area_and_perimeter.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/bin/Debug/net9.0/App6_area_and_perimeter.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/refint/App6_area_and_perimeter.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/App6_area_and_perimeter.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App6_area_and_perimeter/obj/Debug/net9.0/ref/App6_area_and_perimeter.dll

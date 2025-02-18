@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/bin/Debug/net9.0/App22_do_while
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/bin/Debug/net9.0/App22_do_while.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/bin/Debug/net9.0/App22_do_while.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/bin/Debug/net9.0/App22_do_while.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/bin/Debug/net9.0/App22_do_while.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/refint/App22_do_while.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/App22_do_while.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App22_do_while/obj/Debug/net9.0/ref/App22_do_while.dll

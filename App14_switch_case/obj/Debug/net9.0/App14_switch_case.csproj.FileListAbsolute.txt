@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/bin/Debug/net9.0/App14_switch_case
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/bin/Debug/net9.0/App14_switch_case.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/bin/Debug/net9.0/App14_switch_case.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/bin/Debug/net9.0/App14_switch_case.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/bin/Debug/net9.0/App14_switch_case.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/refint/App14_switch_case.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/App14_switch_case.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App14_switch_case/obj/Debug/net9.0/ref/App14_switch_case.dll

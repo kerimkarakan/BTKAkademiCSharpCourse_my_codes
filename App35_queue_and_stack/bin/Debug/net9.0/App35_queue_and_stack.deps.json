@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App35_queue_and_stack/1.0.0": {
+        "runtime": {
+          "App35_queue_and_stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App35_queue_and_stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/bin/Debug/net9.0/App35_queue_and_stack
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/bin/Debug/net9.0/App35_queue_and_stack.deps.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/bin/Debug/net9.0/App35_queue_and_stack.runtimeconfig.json
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/bin/Debug/net9.0/App35_queue_and_stack.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/bin/Debug/net9.0/App35_queue_and_stack.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.AssemblyInfoInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.AssemblyInfo.cs
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.csproj.CoreCompileInputs.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/refint/App35_queue_and_stack.dll
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.pdb
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/App35_queue_and_stack.genruntimeconfig.cache
+/Users/kerimkarakan/BTK_Akademi_CSharp_Ocak_2025/App35_queue_and_stack/obj/Debug/net9.0/ref/App35_queue_and_stack.dll

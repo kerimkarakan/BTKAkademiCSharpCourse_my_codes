@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App6_area_and_perimeter/1.0.0": {
+        "runtime": {
+          "App6_area_and_perimeter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App6_area_and_perimeter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
